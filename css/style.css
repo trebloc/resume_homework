@@ -28,6 +28,10 @@ h2 {
   color: #333333;
 }
 
+small {
+  color: #999999;
+}
+
 img {
   float: left;
   margin-left: 25px;
